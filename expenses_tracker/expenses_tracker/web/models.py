@@ -1,7 +1,7 @@
 from django.core.validators import MinLengthValidator, MinValueValidator
 from django.db import models
 
-from expenses_tracker.web.validators import MaxFileSizeValidator, validate_only_letters
+from expenses_tracker.web.validators import validate_only_letters, MaxFileSizeValidator
 
 
 class Profile(models.Model):
@@ -59,7 +59,9 @@ class Expense(models.Model):
         max_length=TITLE_MAX_LENGTH,
     )
 
-    image = models.URLField()
+    image = models.URLField(
+        verbose_name='Link to Image',
+    )
 
     price = models.FloatField()
 

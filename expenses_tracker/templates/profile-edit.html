@@ -5,6 +5,8 @@
     <!-- Profile Edit Form -->
     <div class="form">
         <form method="POST" action="{% url 'edit profile' %}" enctype="multipart/form-data">
+            {{ form }}
+            {% csrf_token %}
 {#            <label for="budget">Budget:</label>#}
 {#            <input type="number" name="budget" value="1500" required="" id="budget">#}
 {##}
@@ -16,8 +18,6 @@
 {##}
 {#            <label for="image">Profile Image:</label>#}
 {#            <input type="file" class="form-file" name="last_name" id="image">#}
-            {{ form }}
-            {% csrf_token %}
 
             <!-- Profile Edit Button -->
             <input type="submit" value="Edit">
