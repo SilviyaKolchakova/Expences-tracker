@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dad78bd0-b116-45b7-ba0d-a93fe2375418" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4340498d-0d8c-4025-bd98-06d789c62a15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4340498d-0d8c-4025-bd98-06d789c62a15.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4340498d-0d8c-4025-bd98-06d789c62a15/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4340498d-0d8c-4025-bd98-06d789c62a15/storage_v2/_src_/database/expenses_tracker_db.iVI1uQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/web/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/web/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/web/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/web/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/web/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses_tracker/web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/expenses_tracker/web/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/expense-create.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/expense-create.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/expense-delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/expense-delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/expense-edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/expense-edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home-with-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home-with-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/profile-edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profile-edit.html" afterDir="false" />
-    </list>
+    <list default="true" id="dad78bd0-b116-45b7-ba0d-a93fe2375418" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +62,7 @@
       <updated>1645427276902</updated>
       <workItem from="1645427352036" duration="16507000" />
       <workItem from="1645514076585" duration="1683000" />
-      <workItem from="1645516983671" duration="12508000" />
+      <workItem from="1645516983671" duration="13108000" />
     </task>
     <servers />
   </component>
